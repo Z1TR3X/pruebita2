@@ -15,6 +15,7 @@ def get_basic_stats(df):
     }
     return stats
 
+
 def filter_by_team(df, team_name):
     """Filtra partidos donde aparece un equipo (local o visitante)"""
     if not team_name:
