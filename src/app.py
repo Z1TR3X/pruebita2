@@ -133,4 +133,4 @@ else:
     1. Haz clic en **"Browse files"** en el panel izquierdo
     2. Selecciona tu archivo CSV
     3. Explora las estadísticas y gráficos automáticamente
-    """)
+     sad""")
